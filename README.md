@@ -51,6 +51,6 @@ sequenceDiagram
     Backend-->>Frontend: Updated Balances & Ledger
 ```
 
-## 🌐 Deployment (Future)
+##  Deployment (Future)
 - **Frontend:** Can be easily deployed to [Vercel](https://vercel.com/new) or [Netlify](https://www.netlify.com/).
 - **Backend:** Can be hosted on Render or Heroku.
