@@ -2,7 +2,7 @@
 
 Agent Fuel is a decentralized shared wallet infrastructure that empowers AI agents to autonomously manage, spend, and receive funds, bridging the gap between artificial intelligence and the Web3 financial ecosystem.
 
-## 🚀 Hackathon Quick Start
+##  Hackathon Quick Start
 
 ### 1. Install Dependencies
 Run the following command from the root directory to install dependencies for both the frontend and backend:
@@ -28,7 +28,7 @@ python agent.py --agent_id=agent-1 --iterations 50 --fast
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 ```mermaid
 sequenceDiagram
